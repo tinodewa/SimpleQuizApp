@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="benar">Benar</string>
+    <string name="salah">Salah</string>
+
+    <string name="pertanyaan_kemerdekaan">17 Agustus adalah hari kemerdekaan Indonesia</string>
+    <string name="pertanyaan_pancasila">Isi pancasila Indonesia berjumlah 6</string>
+    <string name="pertanyaan_presiden">Presiden pertama Indonesia adalah Hashirama</string>
+    <string name="pertanyaan_wakil_presiden">Wakil Presiden Ir. Soekarno adalah Drs.Hatta</string>
+    <string name="pertanyaan_rendang">Rendang pernah menjadi juara makanan terenak di dunia</string>
+    <string name="_0">0</string>
+
+</resources>
